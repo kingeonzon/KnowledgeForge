@@ -50,4 +50,8 @@
     <string name="user_rating_7_10">User Rating: 7/10</string>
     <string name="back_to_home">Back to Home</string>
     <string name="you_have_successfully_booked_this_tutor">You have Successfully Booked this Tutor!</string>
+    <string name="knowledgeforge1">KnowledgeForge</string>
+    <string name="welcome_to_knowledgeforge2">Welcome to KnowledgeForge</string>
+    <string name="account1">Account</string>
+    <string name="androidproject">AndroidProject</string>
 </resources>

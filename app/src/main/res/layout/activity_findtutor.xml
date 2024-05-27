@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
-    android:orientation="vertical"
+    android:background="@color/design_default_color_background"
     android:gravity="center"
-    tools:ignore="ExtraText"
-    tools:context=".FindTutor">
+    android:orientation="vertical"
+    tools:context=".FindTutor"
+    tools:ignore="ExtraText">
 
 
     <TextView
@@ -37,7 +37,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <TextView
                     android:id="@+id/textView5"
@@ -65,7 +65,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <Button
                     android:id="@+id/button7"
@@ -92,7 +92,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <Button
                     android:id="@+id/button8"
@@ -119,7 +119,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <Button
                     android:id="@+id/button9"
@@ -146,7 +146,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <Button
                     android:id="@+id/button10"
@@ -173,7 +173,7 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
-                android:layout_height="87dp" >
+                android:layout_height="87dp">
 
                 <Button
                     android:id="@+id/button11"

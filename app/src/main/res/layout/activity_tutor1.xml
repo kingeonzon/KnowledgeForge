@@ -36,7 +36,7 @@
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="12dp"
         android:text="@string/contact_number_1231234"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
