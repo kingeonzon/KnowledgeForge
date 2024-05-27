@@ -5,7 +5,8 @@
     <string name="please_enter_your_account">KnowledgeForge</string>
     <string name="enter_username">Enter Username</string>
     <string name="enter_password">Enter Password</string>
-    <string name="btn_l">btn_L</string>
+    <string name="btn_l">btn_l</string>
+
     <string name="start">Find a Tutor</string>
     <string name="account">Account Information</string>
     <string name="feedback">feedback</string>

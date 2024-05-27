@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@drawable/background"
     android:orientation="vertical"
     tools:ignore="ExtraText">
     tools:context=".Login">
@@ -24,18 +24,6 @@
         android:layout_marginTop="2dp"
         android:background="#4CAE50"
         tools:ignore="VisualLintBounds" />
-
-    <TextView
-        android:id="@+id/idTVHeader"
-        android:layout_width="match_parent"
-        android:layout_height="97dp"
-        android:layout_marginTop="25dp"
-        android:gravity="center|center_horizontal"
-        android:text="@string/please_enter_your_account"
-        android:textAlignment="center"
-        android:textColor="#2E7D32"
-        android:textSize="34sp"
-        tools:textStyle="bold" />
 
     <EditText
         android:id="@+id/idEdtUserName"

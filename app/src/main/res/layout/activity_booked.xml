@@ -7,8 +7,8 @@
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="325dp"
-        android:layout_height="136dp"
+        android:layout_width="354dp"
+        android:layout_height="116dp"
         android:text="@string/you_have_successfully_booked_this_tutor"
         android:textAlignment="center"
         android:textSize="34sp"
@@ -16,16 +16,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.393" />
+        app:layout_constraintVertical_bias="0.46" />
 
     <Button
         android:id="@+id/button21"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="80dp"
+        android:layout_marginBottom="228dp"
         android:text="@string/back_to_home"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.448"
         app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

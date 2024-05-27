@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/tutorback"
 
     tools:context=".Dashboard">
 
@@ -20,7 +21,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.841" />
+        app:layout_constraintVertical_bias="0.921" />
 
     <Button
         android:id="@+id/button4"
@@ -34,13 +35,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.724" />
+        app:layout_constraintVertical_bias="0.815" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="293dp"
-        android:layout_height="103dp"
-        android:layout_marginTop="200dp"
+        android:layout_width="361dp"
+        android:layout_height="116dp"
+        android:layout_marginTop="72dp"
+        android:fontFamily="@font/aclonica"
         android:text="Welcome to KnowledgeForge"
         android:textAlignment="center"
         android:textSize="34sp"
